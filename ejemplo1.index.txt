@@ -49,11 +49,7 @@ ver en telegram
 <a href="https://www.instagram.com/championbikers?igsh=MXhpbmwwb3B6aWgyZA== " target="_blank">Ver perfil de Instagram</a>
 
 
-<header>
-  <img src="C:\Users\USER\Desktop\pagina\Captura de pantalla 2025-10-02 110037.png">
-</header>
-  
-
 
 </body>
+
 </html>
